@@ -10,7 +10,7 @@ Data Analysis Project
      Gross margin,
      Profit margin
 ##### CMO Metrics:
-Customer retention rate
-Customer Lifespan Value
+    Customer retention rate,
+    Customer Lifespan Value
 
 
