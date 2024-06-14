@@ -5,7 +5,7 @@ Data Analysis Project
            
 ### Ask
 ##### CEO Metrics:
-    Total revenue over year and             over each month,
+    Total revenue over year and over each month,
     Avg revenue,
     Gross margin,
     Profit margin
