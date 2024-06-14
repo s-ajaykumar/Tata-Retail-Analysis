@@ -9,4 +9,8 @@ Data Analysis Project
      Avg revenue,
      Gross margin,
      Profit margin
+##### CMO Metrics:
+Customer retention rate
+Customer Lifespan Value
+
 
