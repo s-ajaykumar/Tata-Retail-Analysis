@@ -12,5 +12,6 @@ Data Analysis Project
 ##### CMO Metrics:
     Customer retention rate,
     Customer Lifespan Value
-
+These are the metrics used by CEO and CMO.
+Using the data trying to find the metrics
 
