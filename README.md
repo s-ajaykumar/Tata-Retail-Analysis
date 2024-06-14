@@ -5,10 +5,10 @@ Data Analysis Project
            
 ### Ask
 ##### CEO Metrics:
-     Total revenue over year and             over each month,
-     Avg revenue,
-     Gross margin,
-     Profit margin
+    Total revenue over year and             over each month,
+    Avg revenue,
+    Gross margin,
+    Profit margin
 ##### CMO Metrics:
     Customer retention rate,
     Customer Lifespan Value
